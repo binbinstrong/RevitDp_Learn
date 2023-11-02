@@ -135,13 +135,23 @@ Revit 2022: .NET Framework 4.8
 
 
 1. 创建类库项目
+
 2. 引用revit 相关程序集 RevitApi.dll ，RevitApiUI.dll等
+
 3. 继承接口 IExternalCommand
+
 4. 实现接口
+
 5. 编写主程序
+
 6. 调试
+
    1. 使用Addinmanager调试
+   
    2. 通过addin文件添加来
+   
+   3. 
+   
 
 
 
