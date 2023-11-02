@@ -1,4 +1,4 @@
-var sidebarTxt='- [**欢迎回家**](/README.md)\n';
+var sidebarTxt='- [**Revit开发培训大纲**](/README.md)\n';
 var path = require('path');
 var curPath = path.resolve('./');
 var baseDirArr = [];
