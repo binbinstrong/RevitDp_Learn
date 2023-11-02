@@ -2,5 +2,4 @@
 - **revit开发基础**
   - [Revit开发基础](/revit开发基础\Revit开发基础.md)
 - **Revit开发进阶**
-  - [Revit开发进阶2](/Revit开发进阶\Revit开发进阶2.md)
-  - [Revit开发进阶1](/Revit开发进阶\Revit开发进阶1.md)
+  - [README](/Revit开发进阶\README.md)
