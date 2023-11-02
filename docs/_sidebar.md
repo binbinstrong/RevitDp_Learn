@@ -1,5 +1,3 @@
 - [**revit二次开发 简介**](/README.md)
-- **revit开发基础**
-  - [Revit开发基础](/revit开发基础\Revit开发基础.md)
 - **Revit开发进阶**
   - [README](/Revit开发进阶\README.md)
