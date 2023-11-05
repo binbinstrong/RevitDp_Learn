@@ -8,6 +8,48 @@
    - 共享项目
 
    - .netframework 类库
+   
+   ```c#
+   using Autodesk.Revit.DB;
+   using Autodesk.Revit.UI;
+   using System;
+   using System.Collections.Generic;
+   using System.Linq;
+   using System.Text;
+   using System.Threading.Tasks;
+   //using Autodesk.Revit
+   
+   namespace RevitFirstApp
+   {
+       public class RevitPopupWin : IExternalCommand
+       {
+           public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
+           {
+               var result = default(Result);
+   
+               var num = 22222;
+   
+   
+               if (true)
+               {
+   
+               }
+   
+               
+    
+   
+   
+               return result;
+           }
+   
+   
+       }
+   
+   }
+   
+   ```
+   
+   
 3. 应用.netFramework框架版本
 4. vs项目管理
 
