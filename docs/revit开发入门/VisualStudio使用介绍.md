@@ -1,10 +1,6 @@
 # VisualStudio 使用介绍
 
-vs使用视频教程
-
-<video src ="https://www.bilibili.com/video/BV1H84y1H7c4/?spm_id_from=333.337.search-card.all.click&vd_source=6f050b6ca39fe1e13466b125785aa717" control width="900" height="500">
-    </video>
-
+ 
 
 
 1. VlisualStudio简介
